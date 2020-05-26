@@ -1,5 +1,5 @@
 # Building a Swedish Question-Answering Model -- Datasets
-#### Hannes von Essen , [Daniel Hesslow](https://github.com/DanielHesslow)
+#### Hannes von Essen, [Daniel Hesslow](https://github.com/DanielHesslow)
 
 Datasets for PaM2020 "Building a Swedish Question-Answering Model" (Paper link to be added)
 
