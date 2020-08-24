@@ -1,7 +1,7 @@
 # Building a Swedish Question-Answering Model -- Datasets
 #### Hannes von Essen, [Daniel Hesslow](https://github.com/DanielHesslow)
 
-Datasets for PaM2020 "Building a Swedish Question-Answering Model" (Paper link to be added)
+Datasets for PaM2020 "Building a Swedish Question-Answering Model" [A preprint is available here.](Building_a_Swedish_Question_Answering_Model_Preprint.pdf)
 
 This repository contains the datasets for Swedish and Spanish question-answering generated from the [SQuAD dataset](https://rajpurkar.github.io/SQuAD-explorer/) using the novel cross-lingual projection method introduced in our PaM2020 paper.
 
